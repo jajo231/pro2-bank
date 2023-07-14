@@ -25,7 +25,7 @@
 </head>
 <body>
     <p style="text-align: center; margin-bottom: 18pt">
-        <img src="{{public_path('images/MB.jpg')}}" style="width: 200px;" alt=""> <br>
+        <img src="{{public_path('images/MB.jpg     ')}}" style="width: 200px;" alt=""> <br>
         {{-- <strong style="font-size: 16pt">MDC Banking, Inc.</strong> <br> --}}
         #445 Ill Fortune St., Merrycormic <br>
         Tagbilaran city, Bohol <br>
